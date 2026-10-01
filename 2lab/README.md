@@ -84,3 +84,4 @@ func main() {
 	fmt.Printf("6. Среднее значение чисел %d и %d: %.2f\n", numA, numB, averageOfTwo(numA, numB))
 }
 ```
+Запусить код в любом удобном текстовом редакторе, ide или в браузере.
